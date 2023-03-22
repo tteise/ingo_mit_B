@@ -15,7 +15,7 @@ function App() {
         setGameStatus(true)
       }
       setPrevCount(curCount);
-    }, [curCount]);
+    }, [curCount, prevCount]);
 
     // function to generate a new board
     function generateBoard() {
