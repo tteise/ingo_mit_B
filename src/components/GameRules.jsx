@@ -1,6 +1,7 @@
 import React from 'react'
 
 function GameRules() {
+    // to display the game rules
   return (
     <div className='w-full h-fit bg-black'>
     <div className='mx-auto max-w-[600px] bg-black text-gray-200 text-xs sm:text-sm p-2'>

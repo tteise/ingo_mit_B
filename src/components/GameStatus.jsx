@@ -3,7 +3,7 @@ import ConfettiExplosion from 'react-confetti-explosion';
 import PropTypes from 'prop-types';
 
 function GameStatus({ gameStatus, onContinueClick }) {
-  // add your code here to display the game status
+  // to display the game status
   return (
     <div className="GameStatus text-white">
       {gameStatus ? 

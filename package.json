@@ -11,7 +11,6 @@
     "react-confetti": "^6.1.0",
     "react-confetti-explosion": "^2.0.2",
     "react-dom": "^18.2.0",
-    "react-loading-overlay": "^1.0.1",
     "react-scripts": "5.0.1",
     "react-transparent-video": "^1.0.1",
     "web-vitals": "^2.1.4"

@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 function GameBoard({ board, onSquareClick }) {
+    // to display the game board
   const squares = board.map((square, index) => (
     <button
       key={index}
